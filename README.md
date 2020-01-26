@@ -1,2 +1,4 @@
 # latinus-translatorus
-Short and sweet English to PigLatin or PigGreek translator. (Fun School Assignment)
+English to PigLatin or PigGreek translator. (Fun School Assignment)
+
+Writted in C# using Windows Forms.

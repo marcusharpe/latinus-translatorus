@@ -1,7 +1,5 @@
 # latinus-translatorus
-English to PigLatin or PigGreek translator. (Fun School Assignment)
-
-Writted in C# using Windows Forms App (.Net Framework).
+English to PigLatin or PigGreek translator writted in C# using Windows Forms App (.Net Framework).
 
 ![alt text][logo]
 
